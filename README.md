@@ -2,9 +2,9 @@
 
 **DepokSarkar Subscriptions** is a flexible plans and subscription management system for Laravel, with the required tools to run your SAAS like services efficiently. It's simple architecture, accompanied by powerful underlying to afford solid platform for your business.
 
-[![Packagist](https://img.shields.io/packagist/v/depoksarkar/laravel-subscriptions.svg?label=Packagist&style=flat-square)](https://packagist.org/packages/depoksarkar/laravel-subscriptions)
+[![Packagist](https://img.shields.io/packagist/v/depoksarkar/sass-subscriptions.svg?label=Packagist&style=flat-square)](https://packagist.org/packages/depoksarkar/sass-subscriptions)
 [![StyleCI](https://styleci.io/repos/93313402/shield)](https://styleci.io/repos/93313402)
-[![License](https://img.shields.io/packagist/l/depoksarkar/laravel-subscriptions.svg?label=License&style=flat-square)](https://github.com/depoksarkar/laravel-subscriptions/blob/develop/LICENSE)
+[![License](https://img.shields.io/packagist/l/depoksarkar/sass-subscriptions.svg?label=License&style=flat-square)](https://github.com/depoksarkar/sass-subscriptions/blob/develop/LICENSE)
 
 
 ## Considerations
@@ -17,7 +17,7 @@
 
 1. Install the package via composer:
     ```shell
-    composer require depoksarkar/laravel-subscriptions
+    composer require depoksarkar/sass-subscriptions
     ```
 
 2. Publish resources (migrations and config files):
