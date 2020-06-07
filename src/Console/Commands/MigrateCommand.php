@@ -32,8 +32,8 @@ class MigrateCommand extends Command
         $this->alert($this->description);
 
         $path = config('depoksarkar.subscriptions.autoload_migrations') ?
-            'vendor/depoksarkar/laravel-subscriptions/database/migrations' :
-            'database/migrations/depoksarkar/laravel-subscriptions';
+            'vendor/depoksarkar/sass-subscriptions/database/migrations' :
+            'database/migrations/depoksarkar/sass-subscriptions';
 
         if (file_exists($path)) {
             $this->call('migrate', [

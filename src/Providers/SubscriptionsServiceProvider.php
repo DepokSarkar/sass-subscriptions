@@ -63,8 +63,8 @@ class SubscriptionsServiceProvider extends ServiceProvider
     public function boot(): void
     {
         // Publish Resources
-        $this->publishesConfig('depoksarkar/laravel-subscriptions');
-        $this->publishesMigrations('depoksarkar/laravel-subscriptions');
-        ! $this->autoloadMigrations('depoksarkar/laravel-subscriptions') || $this->loadMigrationsFrom(__DIR__.'/../../database/migrations');
+        $this->publishesConfig('depoksarkar/sass-subscriptions');
+        $this->publishesMigrations('depoksarkar/sass-subscriptions');
+        ! $this->autoloadMigrations('depoksarkar/sass-subscriptions') || $this->loadMigrationsFrom(__DIR__.'/../../database/migrations');
     }
 }

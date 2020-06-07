@@ -76,7 +76,7 @@ This project adheres to [Semantic Versioning](CONTRIBUTING.md).
 ## [v1.0.0] - 2018-10-01
 - Enforce Consistency
 - Support Laravel 5.7+
-- Rename package to depoksarkar/laravel-subscriptions
+- Rename package to depoksarkar/sass-subscriptions
 
 ## [v0.0.4] - 2018-09-21
 - Update travis php versions
@@ -115,27 +115,27 @@ This project adheres to [Semantic Versioning](CONTRIBUTING.md).
 
 ## [v0.0.2] - 2017-09-08
 - Fix many issues and apply many enhancements
-- Rename package depoksarkar/laravel-subscriptions from depoksarkar/subscribable
+- Rename package depoksarkar/sass-subscriptions from depoksarkar/subscribable
 
 ## v0.0.1 - 2017-06-29
 - Tag first release
 
-[v4.0.6]: https://github.com/depoksarkar/laravel-subscriptions/compare/v4.0.5...v4.0.6
-[v4.0.5]: https://github.com/depoksarkar/laravel-subscriptions/compare/v4.0.4...v4.0.5
-[v4.0.4]: https://github.com/depoksarkar/laravel-subscriptions/compare/v4.0.3...v4.0.4
-[v4.0.3]: https://github.com/depoksarkar/laravel-subscriptions/compare/v4.0.2...v4.0.3
-[v4.0.2]: https://github.com/depoksarkar/laravel-subscriptions/compare/v4.0.1...v4.0.2
-[v4.0.1]: https://github.com/depoksarkar/laravel-subscriptions/compare/v4.0.0...v4.0.1
-[v4.0.0]: https://github.com/depoksarkar/laravel-subscriptions/compare/v3.0.2...v4.0.0
-[v3.0.2]: https://github.com/depoksarkar/laravel-subscriptions/compare/v3.0.1...v3.0.2
-[v3.0.1]: https://github.com/depoksarkar/laravel-subscriptions/compare/v3.0.0...v3.0.1
-[v3.0.0]: https://github.com/depoksarkar/laravel-subscriptions/compare/v2.1.1...v3.0.0
-[v2.1.1]: https://github.com/depoksarkar/laravel-subscriptions/compare/v2.1.0...v2.1.1
-[v2.1.0]: https://github.com/depoksarkar/laravel-subscriptions/compare/v2.0.0...v2.1.0
-[v2.0.0]: https://github.com/depoksarkar/laravel-subscriptions/compare/v1.0.2...v2.0.0
-[v1.0.2]: https://github.com/depoksarkar/laravel-subscriptions/compare/v1.0.1...v1.0.2
-[v1.0.1]: https://github.com/depoksarkar/laravel-subscriptions/compare/v1.0.0...v1.0.1
-[v1.0.0]: https://github.com/depoksarkar/laravel-subscriptions/compare/v0.0.4...v1.0.0
-[v0.0.4]: https://github.com/depoksarkar/laravel-subscriptions/compare/v0.0.3...v0.0.4
-[v0.0.3]: https://github.com/depoksarkar/laravel-subscriptions/compare/v0.0.2...v0.0.3
-[v0.0.2]: https://github.com/depoksarkar/laravel-subscriptions/compare/v0.0.1...v0.0.2
+[v4.0.6]: https://github.com/depoksarkar/sass-subscriptions/compare/v4.0.5...v4.0.6
+[v4.0.5]: https://github.com/depoksarkar/sass-subscriptions/compare/v4.0.4...v4.0.5
+[v4.0.4]: https://github.com/depoksarkar/sass-subscriptions/compare/v4.0.3...v4.0.4
+[v4.0.3]: https://github.com/depoksarkar/sass-subscriptions/compare/v4.0.2...v4.0.3
+[v4.0.2]: https://github.com/depoksarkar/sass-subscriptions/compare/v4.0.1...v4.0.2
+[v4.0.1]: https://github.com/depoksarkar/sass-subscriptions/compare/v4.0.0...v4.0.1
+[v4.0.0]: https://github.com/depoksarkar/sass-subscriptions/compare/v3.0.2...v4.0.0
+[v3.0.2]: https://github.com/depoksarkar/sass-subscriptions/compare/v3.0.1...v3.0.2
+[v3.0.1]: https://github.com/depoksarkar/sass-subscriptions/compare/v3.0.0...v3.0.1
+[v3.0.0]: https://github.com/depoksarkar/sass-subscriptions/compare/v2.1.1...v3.0.0
+[v2.1.1]: https://github.com/depoksarkar/sass-subscriptions/compare/v2.1.0...v2.1.1
+[v2.1.0]: https://github.com/depoksarkar/sass-subscriptions/compare/v2.0.0...v2.1.0
+[v2.0.0]: https://github.com/depoksarkar/sass-subscriptions/compare/v1.0.2...v2.0.0
+[v1.0.2]: https://github.com/depoksarkar/sass-subscriptions/compare/v1.0.1...v1.0.2
+[v1.0.1]: https://github.com/depoksarkar/sass-subscriptions/compare/v1.0.0...v1.0.1
+[v1.0.0]: https://github.com/depoksarkar/sass-subscriptions/compare/v0.0.4...v1.0.0
+[v0.0.4]: https://github.com/depoksarkar/sass-subscriptions/compare/v0.0.3...v0.0.4
+[v0.0.3]: https://github.com/depoksarkar/sass-subscriptions/compare/v0.0.2...v0.0.3
+[v0.0.2]: https://github.com/depoksarkar/sass-subscriptions/compare/v0.0.1...v0.0.2
