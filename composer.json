@@ -1,5 +1,5 @@
 {
-    "name": "depoksarkar/laravel-subscriptions",
+    "name": "depoksarkar/sass-subscriptions",
     "description": "DepokSarkar Subscriptions is a flexible plans and subscription management system for Laravel, with the required tools to run your SAAS like services efficiently. It's simple architecture, accompanied by powerful underlying to afford solid platform for your business.",
     "type": "library",
     "keywords": [
@@ -15,9 +15,9 @@
     "homepage": "https://depoksarkar.com",
     "support": {
         "email": "help@depoksarkar.com",
-        "issues": "https://github.com/depoksarkar/laravel-subscriptions/issues",
-        "source": "https://github.com/depoksarkar/laravel-subscriptions",
-        "docs": "https://github.com/depoksarkar/laravel-subscriptions/blob/master/README.md"
+        "issues": "https://github.com/depoksarkar/sass-subscriptions/issues",
+        "source": "https://github.com/depoksarkar/sass-subscriptions",
+        "docs": "https://github.com/depoksarkar/sass-subscriptions/blob/master/README.md"
     },
     "authors": [{
             "name": "Depok Sarkar",
@@ -32,7 +32,7 @@
         },
         {
             "name": "The Generous Laravel Community",
-            "homepage": "https://github.com/depoksarkar/laravel-subscriptions/contributors"
+            "homepage": "https://github.com/depoksarkar/sass-subscriptions/contributors"
         }
     ],
     "require": {
